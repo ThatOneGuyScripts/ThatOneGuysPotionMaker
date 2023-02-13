@@ -2,7 +2,7 @@
 Creates every potion is osrs using Kelltoms OSBC
 
 Import this into your /src/model/osrs folder
-add from .PotionMaker.Potion_Maker import OSRSPotionMaker to your "__init__.py" script located in /src/osrs
+add from .PotionMaker.Potion_Maker import OSRSPotionMaker to your "__init__.py" script located in /src/model/osrs
 
 You do not need to move the images. The bot will pull them from it's own folder!
 
